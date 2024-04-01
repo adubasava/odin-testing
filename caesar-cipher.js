@@ -14,7 +14,7 @@
             newString += String.fromCharCode(newCode);
         }        
     }
-    return newString 
+    return newString;
 }
 
 export default caesarCipher
